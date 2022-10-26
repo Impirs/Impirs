@@ -5,6 +5,7 @@
 - 📫 How to reach the inovation ideas.
 
 You can also check one of my Uni-project by link: https://cabinet.miem.hse.ru/#/project/976/ .
+
 Check project documentation by link: https://disk.yandex.ru/d/mGDeaBCSuA1MOQ .
 
 <!---

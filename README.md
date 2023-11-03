@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Impirs
-- 👀 I’m interested in gaming, reading and making videogames.
-- 🌱 I’m currently learning progamming.
-- 💞️ I’m looking to collaborate with my brain.
-- 📫 How to reach the inovation ideas.
+-  Hi, I’m @Impirs
+-  I’m interested in programming, series and .
+-  I’m unstoppably learning progamming.
+-  I’m looking to collaborate with my brain.
+-  How to reach the inovation ideas.
 
 You can also check one of my Uni-project by link: https://cabinet.miem.hse.ru/#/project/976/ .
 
